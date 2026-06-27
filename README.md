@@ -3,9 +3,10 @@ Auto Upgrade mod for Orb of Creation
 *Setup*
 
 - Download BepInEx from here: https://github.com/BepInEx/BepInEx/releases
-- Put it in the Orb of Creation folder (steamapps/common/Orb of Creation/BepInEx
-- Create a `plugins` folder in BepInEx (it should now have 2 sub folders `core` and `plugins`)
-- Put the `OoCAutoUpgrade.dll` in the BepInEx/plugins folder
+- Extract the zip to the Orb of Creation root folder so it is: `steamapps/common/Orb of Creation/BepInEx`, with a `winhttp.dll` where the `.exe` is
+- Run the game once, BepInEx will create folder and config
+- Close game, it should now have several sub folders `core` and `plugins`
+- Put the `OoCAutoUpgrade.dll` in the `BepInEx/plugins` folder
 
 *Linux* 
 
